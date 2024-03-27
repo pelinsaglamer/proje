@@ -1,3 +1,3 @@
-## BASLIK
+## GİT EĞİTİMİ
 ---
-deneme yazısı
+git kullanımı
